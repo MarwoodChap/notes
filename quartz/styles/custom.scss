@@ -5,3 +5,15 @@
 table td {
   vertical-align: top;
 }
+
+.page-title a::before {
+  content: "";
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  background-image: url('/static/favicon.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-right: 8px;
+}
