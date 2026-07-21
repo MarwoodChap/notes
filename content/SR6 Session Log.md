@@ -11,19 +11,26 @@ share: true
 
 ## Session Log
 
-### Session 12 — [date]
+### Session 12 — 21/7/26
 
-[Notes go here]
+Quick as a flash, Jenna was after the shooting girl, tackling her to the ground and disarming her. Not quickly enough to stop her from shooting a few others - one seemingly fatally. As Jenna restrained the girl, Beckett ran over and punched her bloody hard in the head. Instead of falling uncurious and forgetting her last three birthdays, she shrugged it off. ShadowPaw ran over and began healing people, as the previously shot cop pulled out his backup piece and shot at Beckett. She ht Beckett, taking a big old punch in the chops in return.
 
-*Karma: · Nuyen:*
+Jenna tied up the girl, laving the seemingly possessed cop and the previously killed. Jenna had tried a tranq patch but it didn't seem to have an affect. Jenna tested a bullet by pushing it into her skin, and she screamed. Confident in the new magic slugs, she John Wicked him.
+
+Beckett was locked in hand to hand, and despite pummelling him, he is regenerating and still getting shots off. ShadowPaw tried to dipell, but was only partially successful. Luckily Jenna was still in headshot mode, and took him out.
+
+ShadowPaw peeped in the astral and saw the gir's sprirt locked out of her body by a posessing shedim. ShadowPaw banished it, and she was able to return to her body - at which point the slap-patch tool effect and she passed out.
+
+
+*Karma:  5 · Nuyen:0
 
 ### Session 11 — 14/7/26
 
 We decided to try and test the bell on a small group. We waited for a small group to break off, tracked them for 20m or so. As we got close to them, it was clear they had a very weak heat profile, mostly around their joints, and they had they mostly had their throats cut. They gradually slowed until they were barely moving, resembling shop dummies, and faintly creaking as they to turn in our direction. They were rapidly getting to ambient temperature, below temperature.
 
-ShadowPay rang the bell and felt  an immediate sense of unease, and the zombies stopped. After rubbing one's finger to see if it was frozen stiff, we tied again and it didn't respond to the command, but ShadowPaw had the same sense of unease
+ShadowPaw rang the bell and felt  an immediate sense of unease, and the zombies stopped. After rubbing one's finger to see if it was frozen stiff, we tied again and it didn't respond to the command, but ShadowPaw had the same sense of unease
 
-ShadowPaw tried commanding the spirits to depart, and nothing happened, until ShadowPaw looked into the Astral. She saw floating jellyfish spirits trying to extricate themselves from the corpses and come in our direction. Their Aura's indicate hatred and anger, but somehow grey. Realising she only had 30 seconds to react, ShadowPaw attempted to banish the spirits, succeeding in bansishing one.
+ShadowPaw tried commanding the spirits to depart, and nothing happened, until ShadowPaw looked into the Astral. She saw floating jellyfish spirits trying to extricate themselves from the corpses and come in our direction. Their auras indicate hatred and anger, but somehow grey. Realising she only had 30 seconds to react, ShadowPaw attempted to banish the spirits, succeeding in bansishing one.
 
 As Beckett tried to get a fire going to burn these zombies, and realising the future method of powering cars was stupid, ShadowPaw again stepped in and summoned a fire elemental, which engulfed them all. The three spirits headed towards the civic centre - indicating that banishing is the only thing we've found that removes a spirit. Killing their hosts doesn't help, but they're attracted to their bell.
 
@@ -33,9 +40,9 @@ We decided to head back to the civic centre, to confer with Mother Mira. We foun
 
 ![[./images.jpeg|images.jpeg]]
 
-They were summoned by Al Violi, using a bell which summons them, but didn't use the accompanying whistle to bind them. There is a ritual which could be used to banish them, but it would need to be performed in the pace the Shedim. This needs to be done with the master shedim - hopefully he will be found at the place of the initial summoning. This is likely to be a place of great death.
+They were summoned by Cosmo, using a bell which summons them, but didn't use the accompanying whistle to bind them. There is a ritual which could be used to banish them, but it would need to be performed in the place the Shedim were summoned. This needs to be done with the master shedim - hopefully he will be found at the place of the initial summoning. This is likely to be a place of great death.
 
-De Mairighney was hired by the Vanguard Institute for Advanced Magical Theory, earning that they were a front for Horizon - an AAA megacorp. He was hired to validate the provenance of the bell and whilst of Tanks Tartar (sp?). They also seem linked to a plot to destabilise the UCAS.
+De Mairighney was hired by the Vanguard Institute for Advanced Magical Theory, learning that they were a front for Horizon - an AAA megacorp. He was hired to validate the provenance of the bell and whilst of Tanks Tartar (sp?). They also seem linked to a plot to destabilise the UCAS.
 
 Des Marighney has some alchemical pastes, which will help us fight the shedim. He has treated all our bullets.
 
