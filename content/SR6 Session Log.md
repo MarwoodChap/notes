@@ -13,7 +13,7 @@ share: true
 
 ### Session 12 — 21/7/26
 
-Quick as a flash, Jenna was after the shooting girl, tackling her to the ground and disarming her. Not quickly enough to stop her from shooting a few others - one seemingly fatally. As Jenna restrained the girl, Beckett ran over and punched her bloody hard in the head. Instead of falling uncurious and forgetting her last three birthdays, she shrugged it off. ShadowPaw ran over and began healing people, as the previously shot cop pulled out his backup piece and shot at Beckett. She ht Beckett, taking a big old punch in the chops in return.
+Quick as a flash, Jenna was after the shooting girl, tackling her to the ground and disarming her. Not quickly enough to stop her from shooting a few others - one seemingly fatally. As Jenna restrained the girl, Beckett ran over and punched her bloody hard in the head. Instead of falling unconscious and forgetting her last three birthdays, she shrugged it off. ShadowPaw ran over and began healing people, as the previously shot cop pulled out his backup piece and shot at Beckett. She ht Beckett, taking a big old punch in the chops in return.
 
 Jenna tied up the girl, laving the seemingly possessed cop and the previously killed. Jenna had tried a tranq patch but it didn't seem to have an affect. Jenna tested a bullet by pushing it into her skin, and she screamed. Confident in the new magic slugs, she John Wicked him.
 
