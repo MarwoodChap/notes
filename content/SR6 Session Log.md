@@ -19,7 +19,7 @@ Jenna tied up the girl, laving the seemingly possessed cop and the previously ki
 
 Beckett was locked in hand to hand, and despite pummelling him, he is regenerating and still getting shots off. ShadowPaw tried to dipell, but was only partially successful. Luckily Jenna was still in headshot mode, and took him out.
 
-ShadowPaw peeped in the astral and saw the gir's sprirt locked out of her body by a possessing sSedim. ShadowPaw banished it, and she was able to return to her body - at which point the slap-patch tool effect and she passed out.
+ShadowPaw peeped in the astral and saw the girl's sprit locked out of her body by a possessing Shedim. ShadowPaw banished it, and she was able to return to her body - at which point the slap-patch tool effect and she passed out.
 
 
 Karma:  5 · Nuyen:0
