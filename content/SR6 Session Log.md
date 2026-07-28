@@ -11,13 +11,48 @@ share: true
 
 ## Session Log
 
+### Session 13 — 28/7/26
+
+All was suddenly quiet, other than the sobs of shocked civlians. Henri, Nigel, Karen and Mother Mira came into the room, Henri announcing that he couldn't see the Shedim but could feel them. We discussed the plan:
+* Find Cosmo at his evil Mafia base and pizza parlour
+* Punch him until he gives up the whistle and tells  us where he did the ritual
+* Go there, do the ritual
+* Expressive SFX, evil falls, good triumphs
+* Roll credits
+
+Ritual
+* Open the conduit
+* Switching the pitch (*Or smth, i dunno, I use magic to punch things*)
+* Closing the Chasm 
+Will need to accumulate 12 hits in three rounds to make it work. This will alert the master Shedim, and a rather forthright response. Jenna and Beckett will need to protect ShadowPaw.
+
+![[./Pasted image 20260728210149.png|Pasted image 20260728210149.png]]
+
+As we were discussing strategy and tactics a screaming women said 'They're outside! They're surrounding us!'. Outside is a thin picket of beparka'ed figures, some clutching hot water bottles. Seemingly a aimless but giving the impression that numbers could swell.
+
+After a laborious discussion, we decided to try and sneak out via the sewers. Beckett used his prodigious and lady-impressing strength to rip up the sewer manhole cover, in a way that would make nearby ladies think of doing special grown-up cuddles with him.
+
+In the sewers, we heard the skitterings of creatures large and small but were unable to see anything due to the gloom, and curving sewer tunnels. Wed decided to head up, and Becket again worked his knicker-moistening magic on a manhole cover. We were on a long street, with a 3-storey building surrounded by parked cars and trucks and the by now traditional oil-drum braziers warming armed men wearing goggles. It seems Cosmo has turned *The Cosmopolitan* into a fortress.
+
+With ShadowPaw turning her invisible, Jenna scouted a route in. We sneaked in, with the help of Jenna's bag of tricks getting us past a locked window and into a basement, reeking of spoiled meat. On a table, next to a lantern, was a pile of watches and jewellery. From behind the wooden door to this room we could hear faint sounds of classical music.
+
+![[./Pasted image 20260728221358.png|Pasted image 20260728221358.png]]
+
+Sneaking towards the music we found a corpulent chap in his 60s, enjoying a cigar and a whiskey. He was talking to male elf, dressed in a Mr Johnson type suit.
+
+After a bit of a conflab, Beckett lobbed in a shock-pak and Jenna burst in, putting a gun the Cosmo's head. However the elf was unaffected by the blast, and hit her with a supernatural fear attack. Beckett ran along the wall and knocked the whistle out of its hands, getting a backhand in return. Between them Jenna and Beckett managed to beat and shot the elf to the ground whilst ShadowPaw frantically tried to unjam her weapon.
+
+In the background we heard shouts and running feet
+
+Karma:  0 · Nuyen:0
+
 ### Session 12 — 21/7/26
 
 Quick as a flash, Jenna was after the shooting girl, tackling her to the ground and disarming her. Not quickly enough to stop her from shooting a few others - one seemingly fatally. As Jenna restrained the girl, Beckett ran over and punched her bloody hard in the head. Instead of falling unconscious and forgetting her last three birthdays, she shrugged it off. ShadowPaw ran over and began healing people, as the previously shot cop pulled out his backup piece and shot at Beckett. She ht Beckett, taking a big old punch in the chops in return.
 
-Jenna tied up the girl, laving the seemingly possessed cop and the previously killed. Jenna had tried a tranq patch but it didn't seem to have an affect. Jenna tested a bullet by pushing it into her skin, and she screamed. Confident in the new magic slugs, she John Wicked him.
+Jenna tied up the girl, leaving the seemingly possessed cop and the previously killed. Jenna had tried a tranq patch but it didn't seem to have an affect. Jenna tested a bullet by pushing it into her skin, and she screamed. Confident in the new magic slugs, she John Wicked the possessed cop.
 
-Beckett was locked in hand to hand, and despite pummelling him, he is regenerating and still getting shots off. ShadowPaw tried to dipell, but was only partially successful. Luckily Jenna was still in headshot mode, and took him out.
+Beckett was locked in hand to hand, and despite pummelling him, he is regenerating and still getting shots off. ShadowPaw tried to dispel, but was only partially successful. Luckily Jenna was still in headshot mode, and took him out.
 
 ShadowPaw peeped in the astral and saw the girl's sprit locked out of her body by a possessing Shedim. ShadowPaw banished it, and she was able to return to her body - at which point the slap-patch tool effect and she passed out.
 
@@ -30,7 +65,7 @@ We decided to try and test the bell on a small group. We waited for a small grou
 
 ShadowPaw rang the bell and felt  an immediate sense of unease, and the zombies stopped. After rubbing one's finger to see if it was frozen stiff, we tied again and it didn't respond to the command, but ShadowPaw had the same sense of unease
 
-ShadowPaw tried commanding the spirits to depart, and nothing happened, until ShadowPaw looked into the Astral. She saw floating jellyfish spirits trying to extricate themselves from the corpses and come in our direction. Their auras indicate hatred and anger, but somehow grey. Realising she only had 30 seconds to react, ShadowPaw attempted to banish the spirits, succeeding in bansishing one.
+ShadowPaw tried commanding the spirits to depart, and nothing happened, until ShadowPaw looked into the Astral. She saw floating jellyfish spirits trying to extricate themselves from the corpses and come in our direction. Their auras indicate hatred and anger, but somehow grey. Realising she only had 30 seconds to react, ShadowPaw attempted to banish the spirits, succeeding in banishing one.
 
 As Beckett tried to get a fire going to burn these zombies, and realising the future method of powering cars was stupid, ShadowPaw again stepped in and summoned a fire elemental, which engulfed them all. The three spirits headed towards the civic centre - indicating that banishing is the only thing we've found that removes a spirit. Killing their hosts doesn't help, but they're attracted to their bell.
 
