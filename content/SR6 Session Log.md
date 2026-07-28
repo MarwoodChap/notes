@@ -32,7 +32,7 @@ As we were discussing strategy and tactics a screaming women said 'They're outsi
 
 After a laborious discussion, we decided to try and sneak out via the sewers. Beckett used his prodigious and lady-impressing strength to rip up the sewer manhole cover, in a way that would make nearby ladies think of doing special grown-up cuddles with him.
 
-In the sewers, we heard the skitterings of creatures large and small but were unable to see anything due to the gloom, and curving sewer tunnels. Wed decided to head up, and Becket again worked his knicker-moistening magic on a manhole cover. We were on a long street, with a 3-storey building surrounded by parked cars and trucks and the by now traditional oil-drum braziers warming armed men wearing goggles. It seems Cosmo has turned *The Cosmopolitan* into a fortress.
+In the sewers, we heard the skitterings of creatures large and small but were unable to see anything due to the gloom, and curving sewer tunnels. Wed decided to head up, and Beckett again worked his knicker-moistening magic on a manhole cover. We were on a long street, with a 3-storey building surrounded by parked cars and trucks and the by now traditional oil-drum braziers warming armed men wearing goggles. It seems Cosmo has turned *The Cosmopolitan* into a fortress.
 
 With ShadowPaw turning her invisible, Jenna scouted a route in. We sneaked in, with the help of Jenna's bag of tricks getting us past a locked window and into a basement, reeking of spoiled meat. On a table, next to a lantern, was a pile of watches and jewellery. From behind the wooden door to this room we could hear faint sounds of classical music.
 
@@ -40,7 +40,7 @@ With ShadowPaw turning her invisible, Jenna scouted a route in. We sneaked in, w
 
 Sneaking towards the music we found a corpulent chap in his 60s, enjoying a cigar and a whiskey. He was talking to male elf, dressed in a Mr Johnson type suit.
 
-After a bit of a conflab, Beckett lobbed in a shock-pak and Jenna burst in, putting a gun the Cosmo's head. However the elf was unaffected by the blast, and hit her with a supernatural fear attack. Beckett ran along the wall and knocked the whistle out of its hands, getting a hefty backhand in return. Between them Jenna and Beckett managed to beat and shot the elf to the ground whilst ShadowPaw frantically tried to unjam her weapon.
+After a bit of a conflab, Beckett lobbed in a shock-pak and Jenna burst in, putting a gun the Cosmo's head. However the elf was unaffected by the blast, and hit her with a supernatural fear attack. Beckett ran along the wall and knocked the whistle out of its hands, getting a hefty backhand in return. Between them Jenna and Beckett managed to beat and shoot the elf to the ground whilst ShadowPaw frantically tried to unjam her weapon.
 
 In the background we heard shouts and running feet
 
