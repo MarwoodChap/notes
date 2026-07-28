@@ -40,11 +40,11 @@ With ShadowPaw turning her invisible, Jenna scouted a route in. We sneaked in, w
 
 Sneaking towards the music we found a corpulent chap in his 60s, enjoying a cigar and a whiskey. He was talking to male elf, dressed in a Mr Johnson type suit.
 
-After a bit of a conflab, Beckett lobbed in a shock-pak and Jenna burst in, putting a gun the Cosmo's head. However the elf was unaffected by the blast, and hit her with a supernatural fear attack. Beckett ran along the wall and knocked the whistle out of its hands, getting a backhand in return. Between them Jenna and Beckett managed to beat and shot the elf to the ground whilst ShadowPaw frantically tried to unjam her weapon.
+After a bit of a conflab, Beckett lobbed in a shock-pak and Jenna burst in, putting a gun the Cosmo's head. However the elf was unaffected by the blast, and hit her with a supernatural fear attack. Beckett ran along the wall and knocked the whistle out of its hands, getting a hefty backhand in return. Between them Jenna and Beckett managed to beat and shot the elf to the ground whilst ShadowPaw frantically tried to unjam her weapon.
 
 In the background we heard shouts and running feet
 
-Karma:  0 · Nuyen:0
+*Karma:  0 · Nuyen:0*
 
 ### Session 12 — 21/7/26
 
@@ -56,8 +56,7 @@ Beckett was locked in hand to hand, and despite pummelling him, he is regenerati
 
 ShadowPaw peeped in the astral and saw the girl's sprit locked out of her body by a possessing Shedim. ShadowPaw banished it, and she was able to return to her body - at which point the slap-patch tool effect and she passed out.
 
-
-Karma:  5 · Nuyen:0
+*Karma:  5 · Nuyen:0*
 
 ### Session 11 — 14/7/26
 
