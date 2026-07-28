@@ -13,7 +13,7 @@ share: true
 
 ### Session 13 — 28/7/26
 
-All was suddenly quiet, other than the sobs of shocked civlians. Henri, Nigel, Karen and Mother Mira came into the room, Henri announcing that he couldn't see the Shedim but could feel them. We discussed the plan:
+All was suddenly quiet, other than the sobs of shocked civilians. Henri, Nigel, Karen and Mother Mira came into the room, Henri announcing that he couldn't see the Shedim but could feel them. We discussed the plan:
 * Find Cosmo at his evil Mafia base and pizza parlour
 * Punch him until he gives up the whistle and tells  us where he did the ritual
 * Go there, do the ritual
