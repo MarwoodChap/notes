@@ -11,7 +11,7 @@ share: true
 
 ## Session Log
 
-### Session 14 — 4/8/26
+### Session — 4/8/26
 
 Whilst held at gunpoint, Cosmo indicated this was where he'd done the ritual. We tied him up and began barricading the door as we heard shouts, banging and gunfire from elsewhere in the building. 
 
@@ -21,9 +21,9 @@ A huge, and cunning-looking naked man (With the same look in his eye as the elf)
 
 Jenna badly hurt the monster attacking her, and it began whispering in some unholy cant. This whispering paralysed ShadowPaw, pausing the ritual. Meanwhile Beckett continued in frantic combat with the three remaining attackers, dropping one more.
 
-This left ShadowPaw free to begin the final closing stage, but her concentration wandered and she super-glitched. She realised something was wrong, but not what. Something on the other side noticed her. Something whose attention she really didn't want to attract. 
+This left ShadowPaw free to begin the final closing stage, but her concentraton wandered and she super-glitched. She realised something was wrong, but not what. Something on the other side noticed her. Something whose attention she really didn't want to attract. 
 
-Jenna and Beckett, donated their Edge, allowing ShadowPaw to finally complete the ritual with a final burst of her remaining energy. Beckett dropped one more bad guy as there was a blind flash of coloured light. Every moving corpse collapsed to the floor, becoming motionless meat, and Jenna's sense of dread eased and a momentary sense of elation ran through us all.
+Jenna and Beckett, donated their edge, allowing ShadowPaw to finally complete the ritual with a final burst of her remaining energy. Beckett dropped one more bad guy as there was a blind flash of coloured light. Every moving corpse collapsed to the floor, becoming motionless meat, and Jenna's sense of dread eased and a momentary sense of elation ran through us all.
 
 Everything went quiet.
 
