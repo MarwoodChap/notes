@@ -11,6 +11,41 @@ share: true
 
 ## Session Log
 
+### Session — 4/8/26
+
+Whilst held at gunpoint, Cosmo indicated this was where he'd done the ritual. We tied him up and began barricading the door as we heard shouts, banging and gunfire from elsewhere in the building. 
+
+We barricaded a door, and Jenna was barricading one window as the two closest doors taking a battering. A huge bloody fist slammed through the door. As more bad guys appeared round the corner, Beckett rushed to engage. Poorly
+
+A huge, and cunning-looking naked man (With the same look in his eye as the elf) slammed through the door and shrugged off Jenna's gun shots, but failed to hit her. Meanwhile one of the lads on Beckettt went down, but the others had grown claws. Frozen, magically claw.
+
+Jenna badly hurt the monster attacking her, and it began whispering in some unholy cant. This whispering paralysed ShadowPaw, pausing the ritual. Meanwhile Beckett continued in frantic combat with the three remaining attackers, dropping one more.
+
+This left ShadowPaw free to begin the final closing stage, but her concentraton wandered and she super-glitched. She realised something was wrong, but not what. Something on the other side noticed her. Something whose attention she really didn't want to attract. 
+
+Jenna and Beckett, donated their edge, allowing ShadowPaw to finally complete the ritual with a final burst of her remaining energy. Beckett dropped one more bad guy as there was a blind flash of coloured light. Every moving corpse collapsed to the floor, becoming motionless meat, and Jenna's sense of dread eased and a momentary sense of elation ran through us all.
+
+Everything went quiet.
+
+Cosmo told us he was approached by suit, and paid to steal the bell and whistle. He didn't ask who, or know more. Because he's a bloody moron. Which Beckett made clear.
+
+Violi and a squad of solderati arrived, ready for war. They executed Cosmo. Then we heard a radio go off, on the body of the elf. 
+
+*Lazarus 1, come in, this is Pearly Gates*
+*Is the Admin centre secured?*
+
+Beckett tried to bluff to get more, as we began to smell smoke. We exited the now burning building just as the sun was coming up. After around 30 second we noticed the street lights were on and the powered roads were beginning to melt the snow. Our smart tech kicked back on and began downloading queued updates. In the distance we saw a news helicopter take to the air.
+
+We saw a silent anti-grav flying over the city, with the logo of the Horizon corp, before it vanished into the distance.
+
+We made it back to the City Centre, where a frantic Nigel met us again. Inside we were ushered into a room with screens. Jenna was approached by remote AR reporter. She refused.
+
+In a back room were praised, reminded that presenting the right optics and presented with an NDA and offers of future work.
+
+*Karma:  10,000 · Nuyen: 30,000 each*
+
+
+
 ### Session 13 — 28/7/26
 
 All was suddenly quiet, other than the sobs of shocked civilians. Henri, Nigel, Karen and Mother Mira came into the room, Henri announcing that he couldn't see the Shedim but could feel them. We discussed the plan:
@@ -76,7 +111,7 @@ We decided to head back to the civic centre, to confer with Mother Mira. We foun
 
 They were summoned by Cosmo, using a bell which summons them, but didn't use the accompanying whistle to bind them. There is a ritual which could be used to banish them, but it would need to be performed in the place the Shedim were summoned. This needs to be done with the master shedim - hopefully he will be found at the place of the initial summoning. This is likely to be a place of great death.
 
-De Mairighney was hired by the Vanguard Institute for Advanced Magical Theory, learning that they were a front for Horizon - an AAA megacorp. He was hired to validate the provenance of the bell and whilst of Tanks Tartar (sp?). They also seem linked to a plot to destabilise the UCAS.
+De Mairighney was hired by the Vanguard Institute for Advanced Magical Theory, learning that they were a front for Horizon - an AAA megacorp. He was hired to validate the provenance of the bell and whistle of Tanks Tartar (sp?). They also seem linked to a plot to destabilise the UCAS.
 
 Des Marighney has some alchemical pastes, which will help us fight the shedim. He has treated all our bullets.
 
