@@ -15,13 +15,13 @@ share: true
 
 Whilst held at gunpoint, Cosmo indicated this was where he'd done the ritual. We tied him up and began barricading the door as we heard shouts, banging and gunfire from elsewhere in the building. 
 
-We barricaded a door, and Jenna was barricading one window as the two closest doors taking a battering. A huge bloody fist slammed through the door. As more bad guys appeared round the corner, Beckett rushed to engage. Poorly
+We barricaded a door, and Jenna was covering one window as the two closest doors taking a battering. A huge bloody fist slammed through the door. As more bad guys appeared round the corner, Beckett rushed to engage. Poorly.
 
-A huge, and cunning-looking naked man (With the same look in his eye as the elf) slammed through the door and shrugged off Jenna's gun shots, but failed to hit her. Meanwhile one of the lads on Beckettt went down, but the others had grown claws. Frozen, magically claw.
+A huge, and cunning-looking naked man (With the same look in his eye as the elf) slammed through the door and shrugged off Jenna's gun shots, but failed to hit her. Meanwhile one of the lads on Beckett went down, but the others had grown claws. Frozen, magically claws.
 
 Jenna badly hurt the monster attacking her, and it began whispering in some unholy cant. This whispering paralysed ShadowPaw, pausing the ritual. Meanwhile Beckett continued in frantic combat with the three remaining attackers, dropping one more.
 
-This left ShadowPaw free to begin the final closing stage, but her concentraton wandered and she super-glitched. She realised something was wrong, but not what. Something on the other side noticed her. Something whose attention she really didn't want to attract. 
+This left ShadowPaw free to begin the final closing stage, but her concentraton wandered and she super-glitched. She realised something was wrong, but not what. Something on the other side noticed her. Something whose attention she really didn't want to attract. No doubt we'll learn mroe about this later
 
 Jenna and Beckett, donated their edge, allowing ShadowPaw to finally complete the ritual with a final burst of her remaining energy. Beckett dropped one more bad guy as there was a blind flash of coloured light. Every moving corpse collapsed to the floor, becoming motionless meat, and Jenna's sense of dread eased and a momentary sense of elation ran through us all.
 
@@ -40,7 +40,7 @@ We saw a silent anti-grav flying over the city, with the logo of the Horizon cor
 
 We made it back to the City Centre, where a frantic Nigel met us again. Inside we were ushered into a room with screens. Jenna was approached by remote AR reporter. She refused.
 
-In a back room were praised, reminded that presenting the right optics and presented with an NDA and offers of future work.
+In a back room were praised, reminded that presenting the right optics was super important and presented with an NDA and offers of future work.
 
 *Karma:  10,000 · Nuyen: 30,000 each*
 
