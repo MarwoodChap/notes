@@ -14,7 +14,7 @@ share: true
 
 We've wrapped our **Shadowrun SR6** run. I enjoyed it; you didn't — most likely the rules weight, as SR6 is one of the heaviest mainstream systems going. We're voting on the next system. These are notes on each candidate.
 
-> [!tip] The axis that matters The biggest difference between these options is **rules weight (crunch)**, because that's the thing that split the table. Each entry flags it, and there's a summary table at the bottom.
+> [!tip] The axis that matters: The biggest difference between these options is **rules weight (crunch)**, because that's the thing that split the table. Each entry flags it, and there's a summary table at the bottom.
 
 ## The candidates
 
