@@ -1,6 +1,14 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+
+const explorerOptions = {
+  title: "Sections",
+  folderClickBehavior: "link" as const,
+  folderDefaultState: "collapsed" as const,
+  useSavedState: true,
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -13,6 +21,7 @@ export const sharedPageComponents: SharedLayout = {
     },
   }),
 }
+
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
