@@ -5,6 +5,7 @@ tags:
   - ttrpg
   - beckett
 system: Shadowrun 6th World
+category: Shadowrun
 status: live
 share: true
 ---
