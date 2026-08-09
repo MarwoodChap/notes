@@ -1,6 +1,7 @@
 ---
 title: Next RPG System — Candidate Overview
 description: Notes on eight candidate tabletop RPGs for the group's next-campaign vote, after wrapping up Shadowrun SR6.
+category: Shadowrun
 date: 2026-08-04
 tags:
   - ttrpg
