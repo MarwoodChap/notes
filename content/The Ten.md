@@ -1,6 +1,7 @@
 ---
 title: The Ten
 share: true
+category: sundered-reach
 tags:
   - campaign
   - setting
