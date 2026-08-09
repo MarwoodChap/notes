@@ -1,6 +1,7 @@
 ---
 title: The Storm
 share: true
+category: sundered-reach
 tags:
   - campaign
   - setting

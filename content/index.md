@@ -1,39 +1,28 @@
 ---
-title: The Sundered Reach
+title: Public Notes
 share: true
-tags:
-  - campaign
-  - warhammer40k
+category: ""
 ---
 
-# The Sundered Reach
+# Public Notes
 
-> *Four years ago the warp routes closed. Nothing has come in since. Nothing has gone out.*
+Working notes, campaign material and occasional longer pieces from [James Marwood](https://speakingsoftly.com).
 
-An eight-hundred-system charter zone on the Imperium's edge, cut off behind a warp storm, held together by a Rogue Trader who never wanted the job and an Inquisitor nobody can verify.
-
-There is no relief fleet. There is no Astropathic traffic. Whatever happens in the Reach now happens without witnesses, and everyone in it has worked that out.
+Nothing here is finished. That's rather the point.
 
 ---
 
-## Start here
+## Sections
 
-- **[[./How This Campaign Works|How This Campaign Works]]** — cadence, army sizes, what we've agreed
-- **[[./The Ten|The Ten]]** — the worlds that matter
-- **[[./The Storm|The Storm]]** — what closed the routes, and what everyone thinks about it
+### [[sundered-reach/|The Sundered Reach]]
+A slow-burn Warhammer 40,000 narrative campaign. An eight-hundred-system charter zone cut off behind a warp storm, and the four powers picking over what's left.
 
-## The powers
+### [[shadowrun/|Shadowrun]]
+Tabletop RPG material — setting notes, runs, and the people who survive them.
 
-- **[[./House Crosius|House Crosius]]** — the warrant-holder and what's left of his fleet *(James)*
-- **[[Faction — Aeldari|Faction — Aeldari]]** — *(Richard)*
-- **[[Faction — World Eaters|Faction — World Eaters]]** — *(Tristan)*
-- **[[Faction — Emperor's Children|Faction — Emperor's Children]]** — *(Michael)*
-
-## Records
-
-- **[[./Battle Log|Battle Log]]** — every game, in order
-- **[[./Dramatis Personae|Dramatis Personae]]** — who's who
+### [[articles/|Articles]]
+Longer pieces, some of them rescued from older sites.
 
 ---
 
-*A slow-burn narrative campaign. Roughly one game a month. Everything that happens on the table happens here.*
+*Built with [Quartz](https://quartz.jzhao.xyz/). Longer-form writing lives at [speakingsoftly.com](https://speakingsoftly.com).*

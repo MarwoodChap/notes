@@ -1,6 +1,7 @@
 ---
 title: How This Campaign Works
 share: true
+category: sundered-reach
 tags:
   - campaign
   - admin
