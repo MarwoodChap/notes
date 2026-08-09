@@ -1,6 +1,7 @@
 ---
 title: House Crosius
 share: true
+category: sundered-reach
 tags:
   - campaign
   - faction
