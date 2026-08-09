@@ -1,28 +1,40 @@
 ---
-title: Public Notes
+title: The Sundered Reach
 share: true
-category: ""
+category: sundered-reach
+tags:
+  - campaign
+  - warhammer40k
 ---
 
-# Public Notes
+# The Sundered Reach
 
-Working notes, campaign material and occasional longer pieces from [James Marwood](https://speakingsoftly.com).
+> *Four years ago the warp routes closed. Nothing has come in since. Nothing has gone out.*
 
-Nothing here is finished. That's rather the point.
+An eight-hundred-system charter zone on the Imperium's edge, cut off behind a warp storm, held together by a Rogue Trader who never wanted the job and an Inquisitor nobody can verify.
 
----
-
-## Sections
-
-### [[sundered-reach/|The Sundered Reach]]
-A slow-burn Warhammer 40,000 narrative campaign. An eight-hundred-system charter zone cut off behind a warp storm, and the four powers picking over what's left.
-
-### [[shadowrun/|Shadowrun]]
-Tabletop RPG material — setting notes, runs, and the people who survive them.
-
-### [[articles/|Articles]]
-Longer pieces, some of them rescued from older sites.
+There is no relief fleet. There is no Astropathic traffic. Whatever happens in the Reach now happens without witnesses, and everyone in it has worked that out.
 
 ---
 
-*Built with [Quartz](https://quartz.jzhao.xyz/). Longer-form writing lives at [speakingsoftly.com](https://speakingsoftly.com).*
+## Start here
+
+- **[[./How This Campaign Works|How This Campaign Works]]** — cadence, army sizes, what we've agreed
+- **[[./The Ten|The Ten]]** — the worlds that matter
+- **[[./The Storm|The Storm]]** — what closed the routes, and what everyone thinks about it
+
+## The powers
+
+- **[[./House Crosius|House Crosius]]** — the warrant-holder and what's left of his fleet *(James)*
+- **[[Faction — Aeldari|Faction — Aeldari]]** — *(Richard)*
+- **[[Faction — World Eaters|Faction — World Eaters]]** — *(Tristan)*
+- **[[Faction — Emperor's Children|Faction — Emperor's Children]]** — *(Michael)*
+
+## Records
+
+- **[[./Battle Log|Battle Log]]** — every game, in order
+- **[[./Dramatis Personae|Dramatis Personae]]** — who's who
+
+---
+
+*A slow-burn narrative campaign. Roughly one game a month. Everything that happens on the table happens here.*
