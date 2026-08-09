@@ -1,6 +1,7 @@
 ---
 title: Battle Log
 share: true
+category: sundered-reach
 tags:
   - campaign
   - records
