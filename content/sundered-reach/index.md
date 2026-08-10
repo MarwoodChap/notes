@@ -27,7 +27,7 @@ There is no relief fleet. There is no Astropathic traffic. Whatever happens in t
 
 - **[[./House Crosius|House Crosius]]** — the warrant-holder and what's left of his fleet *(James)*
 - **[[Faction — Aeldari|Faction — Aeldari]]** — *(Richard)*
-- **[[Faction — World Eaters|Faction — World Eaters]]** — *(Tristan)*
+- **[[./The Red Knights of Oblivion|The Red Knights of Oblivion]]]** — *(Tristan)*
 - **[[Faction — Emperor's Children|Faction — Emperor's Children]]** — *(Michael)*
 
 ## Records
