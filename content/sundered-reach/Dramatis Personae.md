@@ -19,7 +19,13 @@ tags:
 |---|---|---|
 | **Lord-Captain Domenico Crosius** | Warrant-holder | Navy officer who inherited a dynasty he never trained for, and keeps refusing to be cruel about it. → [[./House Crosius|House Crosius]] |
 | **Inquisitor Hadrian Thule** | Ordo Scriptorum | Came to check a filing discrepancy four years ago. Commands nothing, and therefore commands everything. → [[./House Crosius|House Crosius]] |
+## The Red Knights of Oblivion
 
+|                                              |              |                                                                                                 |
+| -------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------- |
+| **Prince Verux the Unholy**                  | Demon Prince | Daemon Prince. Ascended by killing Emperor's Children, and would very much like to do it again. |
+| **Kharn the Betrayer**                       |              | A raging storm of slaughter. Here. Somehow.                                                     |
+| **Ba'rule, Eighth Lord of the Skull Throne** |              | Bound by pact aboard the _Eviscerator Rex_. Owed something. Not patient.                        |
 ## The unaligned
 
 These belong to nobody. Anyone may use them.

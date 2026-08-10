@@ -30,13 +30,13 @@ Assembled, it may be capable of opening a route through the storm. Or closing th
 
 Everyone wants them. Nobody wants them for the same reason.
 
-| | What they want | Why |
-|---|---|---|
-| **[[./House Crosius|House Crosius]]** | The routes open | The dynasty dies in isolation |
-| **Inquisitor Thule** | The relics recovered | Undisclosed |
-| **[[Faction — Aeldari|Faction — Aeldari]]** | *(Richard to write)* | |
-| **[[Faction — World Eaters|Faction — World Eaters]]** | *(Tristan to write)* | |
-| **[[Faction — Emperor's Children|Faction — Emperor's Children]]** | *(Michael to write)* | |
+|                                      | What they want         | Why                                                      |
+| ------------------------------------ | ---------------------- | -------------------------------------------------------- |
+| **[[./House Crosius|House Crosius]]**                | The routes open        | The dynasty dies in isolation                            |
+| **Inquisitor Thule**                 | The relics recovered   | Undisclosed                                              |
+| **[[Faction — Aeldari|Faction — Aeldari]]**            | *(Richard to write)*   |                                                          |
+| **[[./The Red Knights of Oblivion|The Red Knights of Oblivion]]**  | A way out — eventually | The killing here is finite, and Khorne's appetite is not |
+| **[[Faction — Emperor's Children|Faction — Emperor's Children]]** | *(Michael to write)*   |                                                          |
 
 > [!note] Worth noticing
 > If the relics can end the storm, then anyone who *benefits* from the isolation wants them destroyed, hidden, or in the wrong hands. The Reach cut off from the Imperium is a very safe place to be doing certain kinds of work.
