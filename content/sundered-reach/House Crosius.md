@@ -32,7 +32,7 @@ A believer in the Imperium and, awkwardly, in people. He consistently takes the 
 - Refused an Exterminatus order on a cult-infested world and attempted quarantine instead.
 - Has negotiated with xenos where it was cheaper than fighting them. There are receipts.
 - Suppresses the psyker tithe on his own worlds.
-- Retook the Chamber of Voices from a Concordant faction in eleven hours with minimal casualties, having refused the orthodox response of burning the district. This impressed nobody who mattered and terrified everybody who did.
+- Retook the Chamber of Voices from a Concordant faction in eleven hours with minimal casualties, having refused the orthodox response of burning the district. This impressed nobody who mattered and terrified everybody who realised what it meant.
 
 He privately agrees with the Retrenchment bloc and cannot possibly say so, because agreeing means writing off populated worlds. So instead he flies out personally with a force sized for nothing and tries to hold everything.
 
