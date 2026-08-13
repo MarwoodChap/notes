@@ -30,7 +30,7 @@ Assembled, it may be capable of opening a route through the storm. Or closing th
 
 Everyone wants them. Nobody wants them for the same reason.
 
-|                                     | What they want                | Why                                                          |
+|                                     | **What they want**                | **Why**                                                          |
 | ----------------------------------- | ----------------------------- | ------------------------------------------------------------ |
 | **[[./House Crosius|House Crosius]]**               | The routes open               | The dynasty dies in isolation                                |
 | **Inquisitor Thule**                | The relics recovered          | Undisclosed                                                  |

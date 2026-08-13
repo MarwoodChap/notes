@@ -15,19 +15,22 @@ tags:
 
 ## House Crosius
 
-| **Lord-Captain Domenico Crosius** | Warrant-holder  | Navy officer who inherited a dynasty he never trained for, and keeps refusing to be cruel about it. → [[./House Crosius|House Crosius]]     |
+|                                   |                 |                                                                                                                             |
 | --------------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Lord-Captain Domenico Crosius** | Warrant-holder  | Navy officer who inherited a dynasty he never trained for, and keeps refusing to be cruel about it. → [[./House Crosius|House Crosius]]     |
 | **Inquisitor Hadrian Thule**      | Ordo Scriptorum | Came to check a filing discrepancy four years ago. Commands nothing, and therefore commands everything. → [[./House Crosius|House Crosius]] |
 ## The Red Knights of Oblivion
 
-| **Prince Verux the Unholy**                  | Daemon Prince             | Ascended by killing Emperor's Children, and would very much like to do it again. |
+|                                              |                           |                                                                                  |
 | -------------------------------------------- | ------------------------- | -------------------------------------------------------------------------------- |
+| **Prince Verux the Unholy**                  | Daemon Prince             | Ascended by killing Emperor's Children, and would very much like to do it again. |
 | **Khârn the Betrayer**                       | Iconic Champion of Khorne | A raging storm of slaughter. Here. Somehow.                                      |
 | **Ba'rule, Eighth Lord of the Skull Throne** | Powerful Demon of Khorne  | Bound by pact aboard the _Eviscerator Rex_. Owed something. Not patient.         |
 ## The Discordant Duet
 
-| **Lord Exultant Kaelen**     | The Right Hand of Excess | Older twin, power spear, straight-edge, insufferable.                     |
+|                              |                          |                                                                           |
 | ---------------------------- | ------------------------ | ------------------------------------------------------------------------- |
+| **Lord Exultant Kaelen**     | The Right Hand of Excess | Older twin, power spear, straight-edge, insufferable.                     |
 | **Lord Exultant Sylas**      | The Left Hand of Agony   | Sonic mace, weeping stimulant conduits, cannot function without them.     |
 | **Lord Kakophonist Malakor** | The Void-Tuner           | Sonic augmetics grafted to his nervous system. His supply is running out. |
 | **Obsessionist Varis**       | The Scalpel of Agony     | Rapture Lash, no helmet, unblinking. Leads the Infractors.                |
@@ -37,8 +40,9 @@ tags:
 These belong to nobody. Anyone may use them.
 
 
-| **Saint Ysolde of Vantry**       | Dead, contested             | Farm girl who held the pass for three days. Venerated by tens of millions, recognised by no one — [[Vantry|Vantry]] cannot ratify a saint with Terra out of reach. |
+|                                  |                             |                                                                                                                                                             |
 | -------------------------------- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Saint Ysolde of Vantry**       | Dead, contested             | Farm girl who held the pass for three days. Venerated by tens of millions, recognised by no one — [[Vantry|Vantry]] cannot ratify a saint with Terra out of reach. |
 | **House Sabaeus**                | Navigators, [[Threnody|Threnody]]    | The only people who can actually read [[./The Storm|The Storm]]. They have an assessment. They have not published it.                                                   |
 | **The Concordant bloc**          | [[Concordia|Concordia]]               | Hold every world. Abandon nothing.                                                                                                                          |
 | **The Retrenchment bloc**        | [[Concordia|Concordia]]               | Pull back to the inner five and save what can be saved.                                                                                                     |
