@@ -85,13 +85,13 @@ _(Add units and characters here as they're introduced — e.g. Farseer Aethenor,
 
 - [ ]
 
-### World Eaters (Tristan)
+### The Red Knights of Oblivion (Tristan)
 
 _(Add units and characters here as they're introduced)_
 
 - [ ]
 
-### Emperor's Children (Michael)
+### The Discordant Duet (Michael)
 
 _(Add units and characters here as they're introduced)_
 
