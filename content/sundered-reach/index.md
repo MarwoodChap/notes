@@ -27,7 +27,7 @@ There is no relief fleet. There is no Astropathic traffic. Whatever happens in t
 
 - **[[./House Crosius|House Crosius]]** — the warrant-holder and what's left of his fleet *(James)*
 - **[[Faction — Aeldari|Faction — Aeldari]]** — *(Richard)*
-- **[[./The Red Knights of Oblivion|The Red Knights of Oblivion]]** — A World Eaters warband, stranded mid-slaughter and running out of skulls *(Tristan)*
+- **[[./The Red Knights of Oblivion|The Red Knights of Oblivion]]** — a World Eaters warband, stranded mid-slaughter and running out of skulls *(Tristan)*
 - **[[./The Discordant Duet|The Discordant Duet]]** —  composing something for a sector that cannot yet hear *(Michael)*
 
 ## Records
