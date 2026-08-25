@@ -17,7 +17,7 @@ Nothing here is finished. That's rather the point.
 ### [[sundered-reach/|The Sundered Reach]]
 A slow-burn Warhammer 40,000 narrative campaign. An eight-hundred-system charter zone cut off behind a warp storm, and the four powers picking over what's left.
 
-### [[./content/Shadowrun/Shadowrun|Shadowrun]]
+### [[### [[shadowrun/|Shadowrun]]
 Tabletop RPG material — setting notes, runs, and the people who survive them.
 
 ### [[articles/|Articles]]
