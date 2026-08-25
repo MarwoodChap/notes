@@ -22,6 +22,7 @@ There is no relief fleet. There is no Astropathic traffic. Whatever happens in t
 - **[[./How This Campaign Works|How This Campaign Works]]** — cadence, army sizes, what we've agreed
 - **[[./The Ten|The Ten]]** — the worlds that matter
 - **[[./The Storm|The Storm]]** — what closed the routes, and what everyone thinks about it
+- **[[./Unit Progression|Unit Progression]]** — how characters and units improve and grow
 
 ## The powers
 
