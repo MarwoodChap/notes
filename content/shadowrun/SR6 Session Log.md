@@ -6,7 +6,7 @@ tags:
   - beckett
 system: Shadowrun 6th World
 category: shadowrun
-status: live
+status: closed
 share: true
 ---
 

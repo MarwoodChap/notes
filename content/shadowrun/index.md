@@ -12,7 +12,7 @@ tags:
 Setting notes, campaign material and session records.
 
 * [[./SR6 Session Log|SR6 Session Log]]
-* [[../Shadowrun/2026-08-04 Next RPG System|2026-08-04 Next RPG System]]
+* 2026-08-04 Next RPG System
 
 
 ---
