@@ -64,6 +64,8 @@ Thule knows this. It doesn't trouble him. He does not need to be liked; he needs
 
 **To a point.** Neither of them knows exactly where that point is, and both are careful not to find out. What is reasonably clear so far is that Domenico will not order a massacre, will not surrender Vantry's pilgrims to censure, and will not give up the Navigators. Everything short of that has so far been negotiable.
 
+![[../Pasted image 20260828005353.png|Pasted image 20260828005353.png]]
+
 ---
 
 ## Faction page template
