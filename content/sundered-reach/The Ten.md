@@ -11,18 +11,18 @@ tags:
 
 The Crosius warrant covers some eight hundred systems. Most are dead rock, gas giant and uncharted dark. Ten are worth fighting over, and everyone calls them the Ten.
 
-| World | Type | What it is |
-|---|---|---|
-| [[Concordia|Concordia]] | Civilised | Dynastic seat. Deadlocked. |
-| [[Tarantis|Tarantis]] | Hive | Data-guilds, augmetics, black markets |
-| [[Skarn|Skarn]] | Forge-clave | Maintains the fleet. Barely. |
-| [[Halvern|Halvern]] | Agri, upland | Recruiting ground |
-| [[Cerelia|Cerelia]] | Agri, grain | Feeds the Reach. Undefended. |
-| [[Vantry|Vantry]] | Agri, poor | Saint Ysolde's world |
-| [[Corvane's Rest|Corvane's Rest]] | Feudal | House Corvane, the Knights |
-| [[Threnody|Threnody]] | Void station | Deep anchorage; House Sabaeus |
-| [[Ashkar|Ashkar]] | Mining, penal | Where problems are sent |
-| [[Vessant|Vessant]] | Shrine world | Ecclesiarchy seat. Increasingly ignored. |
+| **World**              | **Type**          | **What it is**                               |
+| ------------------ | ------------- | ---------------------------------------- |
+| [[Concordia|Concordia]]      | Civilised     | Dynastic seat. Deadlocked.               |
+| [[Tarantis|Tarantis]]       | Hive          | Data-guilds, augmetics, black markets    |
+| [[Skarn|Skarn]]          | Forge-clave   | Maintains the fleet. Barely.             |
+| [[Halvern|Halvern]]        | Agri, upland  | Recruiting ground                        |
+| [[Cerelia|Cerelia]]        | Agri, grain   | Feeds the Reach. Undefended.             |
+| [[Vantry|Vantry]]         | Agri, poor    | Saint Ysolde's world                     |
+| [[Corvane's Rest|Corvane's Rest]] | Feudal        | House Corvane, the Knights               |
+| [[Threnody|Threnody]]       | Void station  | Deep anchorage; House Sabaeus            |
+| [[Ashkar|Ashkar]]         | Mining, penal | Where problems are sent                  |
+| [[Vessant|Vessant]]        | Shrine world  | Ecclesiarchy seat. Increasingly ignored. |
 
 ---
 
@@ -62,7 +62,12 @@ Vast mechanised grain plains, low population, no meaningful garrison. It feeds t
 
 ## The rest
 
-**Halvern** — cold upland pasture. Produces the 23rd Highlanders and very little else. **Corvane's Rest** — feudal, oath-bound to Crosius for six thousand years, down to a handful of functioning Knights because Skarn can no longer service them. **Threnody** — deep anchorage and fleet base; the Navigator enclave of House Sabaeus. **Ashkar** — mining and penal. **Vessant** — a minor shrine world whose Ecclesiarchy authority is being quietly eclipsed by an unratified saint two systems over.
+* ***Halvern** — cold upland pasture. Produces the 23rd Highlanders and very little else. 
+* **Corvane's Rest** — feudal, oath-bound to Crosius for six thousand years, down to a handful of functioning Knights because Skarn can no longer service them. 
+* **Threnody** — deep anchorage and fleet base; the Navigator enclave of House Sabaeus. 
+* **Ashkar** — mining and penal. 
+* **Vessant** — a minor shrine world whose Ecclesiarchy authority is being quietly eclipsed by an unratified saint two systems over.
+* **Auspicia** — a small agri-wrold, remarkable only for an auspice station
 
 ---
 
