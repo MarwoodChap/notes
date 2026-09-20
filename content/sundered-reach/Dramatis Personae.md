@@ -35,10 +35,16 @@ tags:
 | **Lord Kakophonist Malakor** | The Void-Tuner           | Sonic augmetics grafted to his nervous system. His supply is running out. |
 | **Obsessionist Varis**       | The Scalpel of Agony     | Rapture Lash, no helmet, unblinking. Leads the Infractors.                |
 
-## The unaligned
+## The Aeldari of the Sundered Reach
+
+|                              |                                                |                                                                           |
+| ---------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------- |
+| **Farseer Aethenor**         | Craftworld Iyanden reconnaissance force leader | Deceived warleader                                                        |
+| Morvael                      | Harlequin Solitaire                            | Rover, wandere, nomad, vagabond — call him what you will                  |
+
+## The Unaligned
 
 These belong to nobody. Anyone may use them.
-
 
 |                                  |                             |                                                                                                                                                             |
 | -------------------------------- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
