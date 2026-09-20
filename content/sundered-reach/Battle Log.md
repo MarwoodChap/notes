@@ -35,7 +35,7 @@ _Every game, in order. Three or four sentences each. Winner writes it up. Full i
 
 **Changed:** Crosius holds the hall and recovers the array's cogitator core — corrupt, partial, and sealed straight into Ordo Scriptorum custody. Iyanden leaves with Aethenor's reading of the baseline. Neither side can act on what it has. The core's seals had been cut and reset **before** the battle, and one partition wiped with precision. Lord Martial Honoria Calvert takes direct field command from here on.
 
-**Full account:** [[./026-09-13  The Listening of Auspicia (DRAFT)|026-09-13  The Listening of Auspicia (DRAFT)]]
+**Full account:** [[./2026-09-13  The Listening of Auspicia (DRAFT)|2026-09-13  The Listening of Auspicia (DRAFT)]]
 
 ---
 
