@@ -37,11 +37,11 @@ Their intent is to gather the full set and orchestrate a cataclysmic, sector-wid
 
 ## What they think of everyone else
 
-**The [[Faction — World Eaters|World Eaters]]** — crude, uncouth barbarians with no appreciation of the art of the kill, nor of the beauty possible within a psychic void. The fear they create is commendable. Their reliance on the Butcher's Nails is a simplistic and backward method.
+**The [[./The Red Knights of Oblivion|World Eaters]]** — crude, uncouth barbarians with no appreciation of the art of the kill, nor of the beauty possible within a psychic void. The fear they create is commendable. Their reliance on the Butcher's Nails is a simplistic and backward method.
 
 **[[./House Crosius|House Crosius]]** — staid, monotone rule-followers, constrained by the restrictive edicts of the Imperium.
 
-**The [[Faction — Aeldari|Aeldari]]** — beneath contempt. Their race created Slaanesh, and yet they refuse to give themselves over to the highest of the Chaos Gods.
+**The [[./The Aeldari of the Sundered Reach|Aeldari]]** — beneath contempt. Their race created Slaanesh, and yet they refuse to give themselves over to the highest of the Chaos Gods.
 
 ---
 
@@ -89,5 +89,5 @@ He goes to war without a helmet, to display his confidence and to sharpen his jo
 
 - **The supply is finite.** Malakor's augmentations will reject without compounds nobody in the Reach can synthesise. The warband's most valuable asset has a clock on him.
 - **The warband is splitting.** Kaelen's straight-edge faction against Sylas's chemists. Two Lord Exultants, one telepathic bond, and an argument that has been running for ten thousand years.
-- **Verux ascended by killing Emperor's Children.** The [[Faction — World Eaters|Red Knights]] and the Duet hold each other in mutual, specific contempt. _First flashpoint._
+- **Verux ascended by killing Emperor's Children.** The [[./The Red Knights of Oblivion|Red Knights]] and the Duet hold each other in mutual, specific contempt. _First flashpoint._
 - **They want the silence kept.** Where every other power in the Reach wants out, the Duet want the door welded shut and repainted.
