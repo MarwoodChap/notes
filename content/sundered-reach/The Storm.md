@@ -34,7 +34,7 @@ Everyone wants them. Nobody wants them for the same reason.
 | ----------------------------------- | ----------------------------- | ------------------------------------------------------------ |
 | **[[./House Crosius|House Crosius]]**               | The routes open               | The dynasty dies in isolation                                |
 | **Inquisitor Thule**                | The relics recovered          | Undisclosed                                                  |
-| **[[Faction — Aeldari|Faction — Aeldari]]**           | *(Richard to write)*          |                                                              |
+| **[[./The Aeldari of the Sundered Reach|The Aeldari of the Sundered Reach]]**           | *(Richard to write)*          |                                                              |
 | **[[./The Red Knights of Oblivion|The Red Knights of Oblivion]]** | A way out — eventually        | The killing here is finite, and Khorne's appetite is not     |
 | **[[./The Discordant Duet|The Discordant Duet]]**         | The silence kept, permanently | They believe the relics _caused_ it, and intend to play them |
 
