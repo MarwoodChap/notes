@@ -1,7 +1,6 @@
 ---
 title: Public Notes
 share: true
-category: ""
 ---
 
 # Public Notes
@@ -19,6 +18,12 @@ A slow-burn Warhammer 40,000 narrative campaign. An eight-hundred-system charter
 
 ### [[shadowrun/|Shadowrun]]
 Tabletop RPG material — setting notes, runs, and the people who survive them.
+
+### [[arkham-horror/|Arkham Horror]]
+Our *Arkham Horror – The Roleplaying Game* games — rules notes and session records.
+
+### [[rivers-of-london/|Rivers of London]]
+Our Rivers of London RPG campaign — magical policing, the demi-monde and London's older inhabitants.
 
 ### [[articles/|Articles]]
 Longer pieces, some of them rescued from older sites.
