@@ -5,6 +5,7 @@ category: sundered-reach
 tags:
   - campaign
   - setting
+  - personal/gaming
 ---
 # The Sundered Reach — Unit Progression
 
