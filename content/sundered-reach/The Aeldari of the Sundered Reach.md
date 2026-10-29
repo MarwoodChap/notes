@@ -5,6 +5,7 @@ category: sundered-reach
 tags:
   - campaign
   - faction
+  - personal/gaming
 player: Richard
 army: Aeldari
 ---
