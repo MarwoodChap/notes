@@ -5,6 +5,7 @@ category: sundered-reach
 tags:
   - campaign
   - reference
+  - personal/gaming
 ---
 
 # Dramatis Personae
@@ -33,34 +34,34 @@ tags:
 
 ## The Discordant Duet
 
-|                              |                          |                                                                           |
-| ---------------------------- | ------------------------ | ------------------------------------------------------------------------- |
-| **Lord Exultant Kaelen**     | The Right Hand of Excess | Older twin, power spear, straight-edge, insufferable.                     |
-| **Lord Exultant Sylas**      | The Left Hand of Agony   | Sonic mace, weeping stimulant conduits, cannot function without them.     |
-| **Lord Kakophonist Malakor** | The Void-Tuner           | Sonic augmetics grafted to his nervous system. His supply is running out. |
-| **Obsessionist Varis**       | The Scalpel of Agony     | Rapture Lash, no helmet, unblinking. Leads the Infractors.                |
+|                              |                          |                                                                                                              |
+| ---------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **Lord Exultant Kaelen**     | The Right Hand of Excess | Older twin, power spear, straight-edge, insufferable. Fell at Vessant; no body recovered. Wants to do it again. |
+| **Lord Exultant Sylas**      | The Left Hand of Agony   | Sonic mace, weeping stimulant conduits, cannot function without them.                                        |
+| **Lord Kakophonist Malakor** | The Void-Tuner           | Sonic augmetics grafted to his nervous system. His supply is running out.                                    |
+| **Obsessionist Varis**       | The Scalpel of Agony     | Rapture Lash, no helmet, unblinking. Leads the Infractors.                                                   |
 
 ## The Aeldari of the Sundered Reach
 
-|                      |                                                |                                                                                                      |
-| -------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Farseer Aethenor** | Craftworld Iyanden reconnaissance force leader | Deceived warleader. Fell at Auspicia in the fourth hour. Iyanden does not lose what it has paid for. |
-| **Morvael**          | Harlequin Solitaire                            | Rover, wanderer, nomad, vagabond — call him what you will                                            |
+|                      |                                                |                                                                                                                                  |
+| -------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Farseer Aethenor** | Craftworld Iyanden reconnaissance force leader | Deceived warleader. Fell at Auspicia in the fourth hour. Iyanden does not lose what it has paid for. In the field again at Vessant. |
+| **Morvael**          | Harlequin Solitaire                            | Rover, wanderer, nomad, vagabond — call him what you will                                                                        |
 
 ## The Unaligned
 
 These belong to nobody. Anyone may use them.
 
-|                                  |                             |                                                                                                                                                                        |
-| -------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Saint Ysolde of Vantry**       | Dead, contested             | Farm girl who held the pass for three days. Venerated by tens of millions, recognised by no one — [[Vantry|Vantry]] cannot ratify a saint with Terra out of reach.            |
-| **House Sabaeus**                | Navigators, [[Threnody|Threnody]]    | The only people who can actually read [[./The Storm|The Storm]]. They have an assessment. They have not published it.                                                              |
-| **The Concordant bloc**          | [[Concordia|Concordia]]               | Hold every world. Abandon nothing.                                                                                                                                     |
-| **The Retrenchment bloc**        | [[Concordia|Concordia]]               | Pull back to the inner five and save what can be saved.                                                                                                                |
-| **House Corvane**                | Knights, [[Corvane's Rest|Corvane's Rest]] | Oath-bound to Crosius for six thousand years. Down to a handful of working machines, because [[Skarn|Skarn]] can no longer service them.                                     |
-| **The forge-clave of [[Skarn|Skarn]]** | Adeptus Mechanicus          | Cut off from Mars, improvising. They know what that is called.                                                                                                         |
-| ***"the Kill-Team"***            | Unconfirmed                 | Persistent reports of Adeptus Astartes operating in the Reach without Chapter support. No one has produced one.                                                        |
-| **The false Ordo**               | Unidentified                | Personnel operating under Ordo Scriptorum seals the Ordo Scriptorum did not issue. Present at [[Cerelia|Cerelia]] and at [[./The Ten\|Auspicia]], both times before anyone else. |
+|                                  |                             |                                                                                                                                                                                                |
+| -------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Saint Ysolde of Vantry**       | Dead, contested             | Farm girl who held the pass for three days. Venerated by tens of millions, recognised by no one — [[Vantry|Vantry]] cannot ratify a saint with Terra out of reach.                                    |
+| **House Sabaeus**                | Navigators, [[Threnody|Threnody]]    | The only people who can actually read [[./The Storm|The Storm]]. They have an assessment. They have not published it.                                                                                      |
+| **The Concordant bloc**          | [[Concordia|Concordia]]               | Hold every world. Abandon nothing.                                                                                                                                                             |
+| **The Retrenchment bloc**        | [[Concordia|Concordia]]               | Pull back to the inner five and save what can be saved.                                                                                                                                        |
+| **House Corvane**                | Knights, [[Corvane's Rest|Corvane's Rest]] | Oath-bound to Crosius for six thousand years. Down to a handful of working machines, because [[Skarn|Skarn]] can no longer service them.                                                             |
+| **The forge-clave of [[Skarn|Skarn]]** | Adeptus Mechanicus          | Cut off from Mars, improvising. They know what that is called.                                                                                                                                 |
+| ***"the Kill-Team"***            | Unconfirmed                 | Persistent reports of Adeptus Astartes operating in the Reach without Chapter support. No one has produced one.                                                                                |
+| **The false Ordo**               | Unidentified                | Personnel operating under Ordo Scriptorum seals the Ordo Scriptorum did not issue. Present at [[Cerelia|Cerelia]], at [[./The Ten\|Auspicia]] and at [[./The Ten\|Vessant]], each time before anyone else. |
 
 ---
 
