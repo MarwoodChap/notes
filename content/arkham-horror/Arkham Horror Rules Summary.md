@@ -7,6 +7,7 @@ tags:
   - arkham-horror
   - rpg
   - rules
+  - personal/gaming
 ---
 
 # Rules Summary
