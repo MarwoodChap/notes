@@ -5,6 +5,7 @@ category: rivers-of-london
 tags:
   - rivers-of-london
   - rpg
+  - personal/gaming
 ---
 
 # Rivers of London
