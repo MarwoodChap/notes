@@ -5,6 +5,7 @@ category: shadowrun
 tags:
   - shadowrun
   - rpg
+  - personal/gaming
 ---
 
 # Shadowrun
