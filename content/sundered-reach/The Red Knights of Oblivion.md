@@ -5,8 +5,9 @@ category: sundered-reach
 tags:
   - campaign
   - faction
-  - player: Tristan
-  - army: World Eaters
+  - personal/gaming
+player: Tristan
+army: World Eaters
 ---
 
 # The Red Knights of Oblivion
