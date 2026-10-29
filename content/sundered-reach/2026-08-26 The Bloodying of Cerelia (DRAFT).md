@@ -13,6 +13,7 @@ tags:
   - house-crosius
   - world-eaters
   - campaign
+  - personal/gaming
 ---
 
 # The Bloodying of Cerelia

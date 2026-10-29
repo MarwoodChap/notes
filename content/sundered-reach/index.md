@@ -5,6 +5,7 @@ category: sundered-reach
 tags:
   - campaign
   - warhammer40k
+  - personal/gaming
 ---
 
 # The Sundered Reach

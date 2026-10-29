@@ -5,6 +5,7 @@ category: sundered-reach
 tags:
   - campaign
   - setting
+  - personal/gaming
 ---
 
 # The Ten
@@ -60,14 +61,19 @@ Poor, agricultural, ignored by Concordia for eight thousand years until a farm g
 
 Vast mechanised grain plains, low population, no meaningful garrison. It feeds the Reach and it cannot be defended, and both facts are used as arguments by opposite sides of the Chamber.
 
+## Vessant
+
+A minor shrine world whose Ecclesiarchy authority is being quietly eclipsed by an unratified saint two systems over. The pilgrims have stopped coming, and much of it now stands empty.
+
+The Discordant Duet and Craftworld Iyanden fought over its ruined churches on 28.10.2026. The Duet hold them, and hold what was buried there. See [[./The First Battle of Vessant|The First Battle of Vessant]].
+
 ## The rest
 
-* ***Halvern** — cold upland pasture. Produces the 23rd Highlanders and very little else. 
+* **Halvern** — cold upland pasture. Produces the 23rd Highlanders and very little else. 
 * **Corvane's Rest** — feudal, oath-bound to Crosius for six thousand years, down to a handful of functioning Knights because Skarn can no longer service them. 
 * **Threnody** — deep anchorage and fleet base; the Navigator enclave of House Sabaeus. 
 * **Ashkar** — mining and penal. 
-* **Vessant** — a minor shrine world whose Ecclesiarchy authority is being quietly eclipsed by an unratified saint two systems over.
-* **Auspicia** — a small agri-wrold, remarkable only for an auspice station
+* **Auspicia** — a small agri world, remarkable only for an auspex station
 
 ---
 

@@ -4,6 +4,7 @@ tags:
   - sessionlog
   - ttrpg
   - beckett
+  - personal/gaming
 system: Shadowrun 6th World
 category: shadowrun
 status: closed

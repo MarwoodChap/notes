@@ -13,6 +13,7 @@ tags:
   - house-crosius
   - aeldari
   - campaign
+  - personal/gaming
 ---
 
 # The Listening of Auspicia
