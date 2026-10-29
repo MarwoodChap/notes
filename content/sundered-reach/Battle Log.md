@@ -5,6 +5,7 @@ category: sundered-reach
 tags:
   - campaign
   - records
+  - personal/gaming
 ---
 
 # Battle Log
@@ -39,6 +40,26 @@ _Every game, in order. Three or four sentences each. Winner writes it up. Full i
 
 ---
 
+### 003 — _Report awaited_
+
+**Date:** TBC · **Combatants:** [[./The Aeldari of the Sundered Reach|The Aeldari of the Sundered Reach]] vs TBC · **World:** TBC · **Result:** Aeldari victory
+
+> _To follow._
+
+---
+
+### 004 — The First Battle of Vessant
+
+**Date:** 28.10.2026 · **Combatants:** [[./The Discordant Duet|The Discordant Duet]] vs [[./The Aeldari of the Sundered Reach|The Aeldari of the Sundered Reach]] · **World:** [[./The Ten|Vessant]] · **Result:** Emperor's Children victory, 38–20
+
+> Kaelen and Sylas came to the ruined churches of Vessant hunting a relic; Aethenor came to watch them, and was fed decoys for his trouble. Malakor's Noise Marines silenced the Dark Reapers and later the Fire Dragons, while the Harlequins and a Solitaire cut down the Flawless Blades on the far flank. Kaelen fell to Aeldari precision fire and was carried from the field by his Tormentors; no body has been found. Sylas's Infractors, meanwhile, sat out most of the battle guarding what they had found.
+
+**Changed:** The Discordant Duet recover **Component II**. The site had been opened and closed again before either force arrived — whoever got there first left the component where it lay. Kaelen has fallen; his fate is unconfirmed. Slaanesh has noticed the performance: the Duet take 150 points of daemonic reinforcements for one future game.
+
+**Full account:** [[./The First Battle of Vessant|The First Battle of Vessant]]
+
+---
+
 ## Template
 
 ```
@@ -62,14 +83,14 @@ _Every game, in order. Three or four sentences each. Winner writes it up. Full i
 
 Six, scattered. Nobody starts with any. This is the campaign's scoreboard.
 
-| #   | Component                              | Found on      | Held by                          |
-| --- | -------------------------------------- | ------------- | -------------------------------- |
-| I   | Control module, blackstone wand fitted | [[Cerelia|Cerelia]]   | [[./The Red Knights of Oblivion|The Red Knights of Oblivion]]  |
-| II  | _unrecovered_                          | —             | —                                |
-| III | _unrecovered_                          | —             | —                                |
-| IV  | _unrecovered_                          | —             | —                                |
-| V   | _unrecovered_                          | —             | —                                |
-| VI  | _unrecovered_                          | —             | —                                |
+| #   | Component                              | Found on                | Held by                          |
+| --- | -------------------------------------- | ----------------------- | -------------------------------- |
+| I   | Control module, blackstone wand fitted | [[Cerelia|Cerelia]]             | [[./The Red Knights of Oblivion|The Red Knights of Oblivion]]  |
+| II  | Relic — the Duet call it a tuning fork | [[./The Ten\|Vessant]]    | [[./The Discordant Duet|The Discordant Duet]]          |
+| III | _unrecovered_                          | —                       | —                                |
+| IV  | _unrecovered_                          | —                       | —                                |
+| V   | _unrecovered_                          | —                       | —                                |
+| VI  | _unrecovered_                          | —                       | —                                |
 
 ## Intelligence recovered
 
@@ -79,6 +100,7 @@ Not components. What each faction knows, and can't yet use.
 | ------------------------------------ | ------------------------------------------------------------------ | --------- |
 | [[./House Crosius|House Crosius]]                    | A single bearing, taken from a fixed baseline ten thousand years ago | Auspicia  |
 | [[./The Aeldari of the Sundered Reach|The Aeldari of the Sundered Reach]] | That the array watches for an arrival, not a place                  | Auspicia  |
+| [[./The Aeldari of the Sundered Reach|The Aeldari of the Sundered Reach]] | Who the Discordant Duet are, and what they field                    | Vessant   |
 
 ## Campaign advantages
 
@@ -96,7 +118,7 @@ Nothing here touches rules or profiles. It is all positioning and information.
 | Veto one terrain feature, finale                     | _unclaimed_                         | —    |
 | Place one terrain feature yourself, finale           | _unclaimed_                         | —    |
 | Choose the mission from two, any one future game     | _unclaimed_                         | —    |
-| 150 points of extra reinforcements, any future game  | _unclaimed_                         | —    |
+| 150 points of extra reinforcements, any future game  | [[./The Discordant Duet|The Discordant Duet]] — Slaanesh daemons | 004  |
 | Name one unit and give it a trait, ahead of schedule | _unclaimed_                         | —    |
 
 ### Loser's draw
@@ -106,19 +128,21 @@ Nothing here touches rules or profiles. It is all positioning and information.
 | First choice of deployment zone, finale                        | [[./The Aeldari of the Sundered Reach|The Aeldari of the Sundered Reach]] | 002  |
 | Learn what one other faction is holding                        | _undrawn_                             | —    |
 | Learn where one unrecovered component is                       | _undrawn_                             | —    |
-| Put one question to The One Who Remains, and get a true answer  | _undrawn_                             | —    |
+| Put one question to The One Who Remains, and get a true answer  | [[./The Aeldari of the Sundered Reach|The Aeldari of the Sundered Reach]] | 004  |
 | Learn one thing about the false Ordo                           | _undrawn_                             | —    |
 | Choose the world and flashpoint for a game you are not in      | _undrawn_                             | —    |
 | One of the campaign's held secrets, early                      | _undrawn_                             | —    |
 
 ## Games played
 
+_Game 003 not yet included._
+
 | Faction                               | Played | Won |
 | ------------------------------------- | ------ | --- |
 | [[./House Crosius|House Crosius]]                     | 2      | 1   |
-| [[./The Aeldari of the Sundered Reach|The Aeldari of the Sundered Reach]] | 1      | 0   |
+| [[./The Aeldari of the Sundered Reach|The Aeldari of the Sundered Reach]] | 2      | 0   |
 | [[./The Red Knights of Oblivion|The Red Knights of Oblivion]]       | 1      | 1   |
-| [[./The Discordant Duet|The Discordant Duet]]               | 0      | 0   |
+| [[./The Discordant Duet|The Discordant Duet]]               | 1      | 1   |
 
 ## Contested worlds
 
@@ -126,7 +150,8 @@ A world falls when it has been fought over **three times**.
 
 | World       | Times contested | Held by           |
 | ----------- | --------------- | ----------------- |
-| [[Cerelia|Cerelia]]            | 1               | [[./House Crosius|House Crosius]] |
+| [[Cerelia|Cerelia]]            | 1               | [[./The Red Knights of Oblivion|The Red Knights of Oblivion]] |
 | [[./The Ten\|Auspicia]]   | 1               | [[./House Crosius|House Crosius]] |
+| [[./The Ten\|Vessant]]    | 1               | [[./The Discordant Duet|The Discordant Duet]] |
 
 ---
