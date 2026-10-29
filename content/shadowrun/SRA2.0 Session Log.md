@@ -4,6 +4,7 @@ tags:
   - sessionlog
   - ttrpg
   - beckett
+  - personal/gaming
 system: Shadowrun Anarchy 2.0
 category: shadowrun
 status: live
