@@ -11,6 +11,7 @@ tags:
 
 Notes, rules and session records for our *Arkham Horror – The Roleplaying Game* games.
 
+* [[./Three Days to the Big Easy Session Log|Three Days to the Big Easy Session Log]]
 * [[./Arkham Horror Rules Summary|Arkham Horror Rules Summary]]
 
 
