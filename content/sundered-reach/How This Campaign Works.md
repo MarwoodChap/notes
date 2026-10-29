@@ -5,6 +5,7 @@ category: sundered-reach
 tags:
   - campaign
   - admin
+  - personal/gaming
 ---
 
 # How This Campaign Works
