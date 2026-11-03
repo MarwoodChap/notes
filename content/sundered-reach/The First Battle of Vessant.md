@@ -56,17 +56,13 @@ Secondly, and despite the overall success of the battle for the Emperor's Childr
 
 > _"I came to see them. I did. They are worse than I saw."_ — Farseer Aethenor
 
-_Draft — for Richard to take, alter or discard._
+Aethenor had led an Aeldari force to Vessant following a vision of the cursed Slaaneshi forces infecting the planet. Aethenor had known of Kaelen and Sylas for many years but had never crossed paths with them; from the stories, they were dangerous foes and the Aeldari would need to be cautious. For now, surveillance was the optimum strategy — observe and assess. Engagement was unavoidable, though — the bitter hatred of this foe saw to that.
 
-Aethenor came to Vessant to watch, not to win. A shrine world the mon-keigh no longer troubled to pray at, and in its ruins the children of She Who Thirsts growing strong enough to matter. He wished to know their names. That was all.
+The skirmish was brief but bloody, with heavy casualties on both sides. Morvael proved to be both a blessing and a liability, as he and his Harlequin Troupe made short work of the Flawless Blades before Morvael's reckless charge into the Tormentors led to his grievous wounding. Thankfully the Harlequins and remaining Avengers were able to eliminate his assailants and bring him to safety, mortally wounding Kaelen in the process.
 
-The followers of the Prince had prepared for watchers. Every glance Iyanden took across the ruined churches returned something meant for it: a hollow position, a vehicle that drew fire and carried no one of consequence, a movement that went nowhere. The Farseer read the field as he reads all fields, and for the first time in a long while found the field reading him back.
+On the other flank, the Noise Marines proved a formidable challenge, decimating the Reapers, Dragons, Guardians and Scouts.
 
-The painted ones did on the left what Aethenor had foreseen they would not, and he records it without complaint. He has been wrong before. He finds he does not mind being wrong in that direction.
-
-Iyanden lost the field. It did not lose the look. One of the twins fell to an Aeldari shot and was carried away still speaking, and that is the thing Aethenor cannot set down: not the wound, but that it was received as a gift.
-
-At the edge of the ruins, one unit of the Prince's most savage did not fight for most of the day. That is not in their nature. Something there was worth their not fighting. Aethenor did not see what.
+A new approach will be required for our next encounter. Lessons learned. Lives lost.
 
 ---
 
@@ -107,11 +103,11 @@ They were not the first to find it. Beneath the ruined churches the ground had b
 
 Lord Exultant Kaelen fell to Aeldari fire. No body was recovered. His Tormentors carried his power spear from the field and insist he lives. Kaelen, who has spent ten thousand years despising his brother's appetites, has found one of his own.
 
-Craftworld Iyanden withdrew having achieved what Aethenor came for: the warband is named, counted and watched. It did not see what the Duet took, and does not know that it should have.
+Craftworld Iyanden withdrew having achieved what Aethenor came for: the warband is named, counted and watched. It did not see what the Duet took, and does not know that it should have. The Solitaire Morvael was carried from the field grievously wounded, by the Harlequins and what remained of the Avengers.
 
 Vessant has been fought over once.
 
-_Mechanically: the Discordant Duet hold Component II. Michael takes **150 points of extra reinforcements** for one future game, to be fielded as Slaanesh daemons: the Dark Prince's approval of a victory well performed. Richard may **put one question to The One Who Remains, and get a true answer**. Kaelen remains available as normal: whatever happened to him on Vessant, he is back._
+_Mechanically: the Discordant Duet hold Component II. Michael takes **150 points of extra reinforcements** for one future game, to be fielded as Slaanesh daemons: the Dark Prince's approval of a victory well performed. Richard may **put one question to The One Who Remains, and get a true answer**. Kaelen and Morvael are both available as normal: characters recover fully between battles, so whatever happened to them on Vessant, they are back._
 
 ---
 
@@ -124,3 +120,4 @@ _Mechanically: the Discordant Duet hold Component II. Michael takes **150 points
 |**Lord Kakophonist Malakor**|"The Void-Tuner." Had a very good day.|
 |**Farseer Aethenor**|Craftworld Iyanden. Came to watch.|
 |**The One Who Remains**|Designation unofficial. True name Oomvarah. Xenos, Zoat.|
+|**Morvael**|Solitaire. A blessing and a liability. Carried from the field.|
