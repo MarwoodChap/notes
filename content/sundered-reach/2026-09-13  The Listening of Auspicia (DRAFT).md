@@ -71,6 +71,8 @@ Aethenor read the baseline before the first shot and understood what the builder
 
 The Scorpions took the eastern ground and the Reapers held it, and for a long while the field belonged to Iyanden. The Laughing God's own turned the human right and would have rolled it up entire, but the humans spent a company of their best from the sky simply to stand in the way, and the painted ones were obliged to kill them, which took time, and time was the only thing Iyanden did not have to spare.
 
+The centre ground was held by a resolute detachment and a unit of Bolgryns (spelling? another mon-keigh word). Their stubbornness prevented the Aeldari objectives from being fully met. More firepower will be needed next time.
+
 Aethenor fell in the fourth hour to a shell fired by a crew who never saw him and will never know what they did. He is not gone. Iyanden does not lose what Iyanden has already paid for.
 
 What he saw before the shell found him is the only thing of consequence recovered from Auspicia. The array is not aimed at a place. It is aimed at an arrival. The humans hold the numbers and cannot read them. Iyanden holds the meaning and has no numbers at all.
