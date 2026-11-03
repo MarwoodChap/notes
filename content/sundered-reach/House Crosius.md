@@ -45,11 +45,21 @@ Came to the Reach four years ago to verify an archival discrepancy. The storm cl
 
 He found something in the Crosius archive. He has not said what. He has been very clear about what will happen if he is not assisted.
 
+## Lord Martial Honoria Calvert
+
+**Commander of the Household Regiments**, and battlefield commander of everything House Crosius puts in the field.
+
+Tall, powerfully built, and plain-spoken to the point of rudeness. She says what she means in as few words as it will go into and does not dress it up. The troops love her for it: she has never told them a fight would be easy, and they have noticed that she is usually right about how hard it will be. She is, by any measure the regiments care about, very good at her job.
+
+Her relationship with the Lord-Captain is correct, professional and guarded. He has asked her, more than once, to call him Domenico. She still calls him Lord-Captain.
+
+**On the table:** unlocked by House Crosius's victory at Auspicia. Uses Ursula Creed's datasheet.
+
 ## The force
 
 Everything Domenico could beg, trade, cajole or press into service.
 
-**Household** — void-armoured troops in Great Crusade pattern wargear, maintained by Skarn from templates nobody has updated in ten thousand years. Full house livery: lagoon, crimson and gold, polished metals. These are his.
+**Household** — void-armoured troops in Great Crusade pattern wargear, maintained by Skarn from templates nobody has updated in ten thousand years. Full house livery: lagoon, crimson and gold, polished metals. These are his, and Calvert commands them.
 
 **Retinue** — voidsmen, specialists, the ship's company. Lagoon and gold, tarnished brass. These are the dynasty's.
 
