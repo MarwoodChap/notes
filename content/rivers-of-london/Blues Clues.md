@@ -85,10 +85,20 @@ Leon never describes the man's face. Every entry says only "he".
 
 ## Rupert Ashdown
 
-- He said he was "with the Cabinet Office, in a manner of speaking". He wanted to know where the trumpet was and didn't ask about Leon.
-- He told them to find it "before anyone plays it all the way through".
-- His card has a mobile number and nothing else. On the back, in fountain pen: *With compliments. — C.*
-- The investigators have arranged to meet him at **11:00 tomorrow, on the benches in St James's Park near Great George Street**.
+- **First meeting.** He said he was "with the Cabinet Office, in a manner of speaking". He wanted to know where the trumpet was and didn't ask about Leon. He told them to find it "before anyone plays it all the way through".
+- **His card.** A mobile number and nothing else. On the back, in fountain pen: *With compliments. — C.*
+- **St James's Park.** The investigators met him there. He folded when Dr Boedscu threatened to ring his aunt, a Permanent Secretary at the Home Office.
+- **What he says.** He knows very little. He is passed documents from "C." on cream paper. These include a **list of dangerous instruments**, with clear instructions not to touch the trumpet or let it be played.
+
+#### Kieran's open mic
+
+- **Kieran vanished.** The investigators tried to arrest him to stop him playing *The Old Man's Tune*, and he disappeared, just as Leon had.
+- **The smiling man.** In the crowd, a smiling man in a suit caught their eye, shrugged, and was lost in the scrum.
+- **Statements.** PC O'Neil took statements from the witnesses.
+
+#### Dr Walid
+
+- **An earlier case.** The Folly's doctor told the investigators about an earlier case in the Folly's files.
 
 ## The pattern so far
 
@@ -102,10 +112,9 @@ Musicians who are ordinary for years suddenly become very good. They seem to mak
 
 ## Open questions
 
-- Where is Leon? And Delroy?
-- Who, or what, is *The Old Man's Tune* for?
+- Where are Leon, Kieran and Delroy?
+- Who, or what, is *The Old Man's Tune* for? Who else has learned it?
 - Who was Eddie S., and who paid for the horn?
-- Who is "the Gentleman"? Who is "C."?
-- Who paid the burglar £50?
+- Who is "the Gentleman"? Who is the smiling man? Who is "C."?
+- What else is on C.'s list of dangerous instruments?
 - Whose deal is still open?
-- What happens to Kieran if he plays the tune all the way through?

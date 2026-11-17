@@ -48,11 +48,17 @@ PC O'Neil's first edition of *The First Book of Jazz*, a gift from the spirit at
 
 ## Night three: the open mic
 
-- The team went to Kieran's gig.
-- As he played the old tune, they tried to arrest him to stop him playing. He disappeared, just as Leon had.
-- In the crowd, **a smiling man in a suit** caught their eye, shrugged, and was lost in the scrum.
-- PC O'Neil took statements from the witnesses.
-- The next morning, the team reported to Nightingale.
+- **Ashdown in St James's Park.** At first he was polished and gave nothing away. He folded when Dr Boedscu threatened to ring his aunt, a Permanent Secretary at the Home Office. Ashdown says he knows very little. Documents reach him from "C." on cream paper, including a **list of dangerous instruments** with clear instructions: don't touch the trumpet, and don't let it be played.
+- **The open mic.** The team went to Kieran's gig. As he played the old tune, they tried to arrest him to stop him playing. He disappeared, just as Leon had.
+- **The smiling man.** In the crowd, a smiling man in a suit caught their eye, shrugged, and was lost in the scrum.
+- **Statements.** PC O'Neil took statements from the witnesses.
+
+#### Aftermath
+
+- **Reporting in.** The next morning, the team reported to Nightingale.
+- **Dr Walid** told them about an earlier case in the Folly's files. He has since sent Dr Carmichael to Nightingale for training, and Nightingale has started him on Latin.
+- **Harry's book sale.** PC O'Neil has had a text inviting him to a pub in Smithfield to discuss selling his copy of *The First Book of Jazz*.
+- **Julian's invitation.** Dr Boedscu has been invited to tea with his aunt.
 
 ## The pattern
 
